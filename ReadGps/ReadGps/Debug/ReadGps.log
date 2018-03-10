@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\nz4319\source\repos\readgps\readgps\source.cpp(81): warning C4101: 'dwactlen': unreferenced local variable
+c:\users\nz4319\source\repos\readgps\readgps\source.cpp(81): warning C4101: 'dwLength': unreferenced local variable
+c:\users\nz4319\source\repos\readgps\readgps\source.cpp(78): warning C4101: 'recvBuf': unreferenced local variable
+c:\users\nz4319\source\repos\readgps\readgps\source.cpp(137): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ReadGps.vcxproj -> C:\Users\NZ4319\source\repos\ReadGps\Debug\ReadGps.exe
